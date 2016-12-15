@@ -1,6 +1,8 @@
 # Nvidia Tegra TX1 ORB_SLAM porting
 Use the right camera of ZED Stereo camera.
+
 ~/catkin_ws$ roslaunch zed_wrapper zed_right.launch 
+
 ~/catkin_ws$ roslaunch orb_slam zed.launch
 
 # ORB_SLAM
